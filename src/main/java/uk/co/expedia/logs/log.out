@@ -1,0 +1,126 @@
+2020-04-27 15:04:218 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:20 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:458 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:55 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:477 INFO  HomePage :39 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (c7bfb43fe26bc0e3e5c8d576b9a991fd)] -> id: header-account-menu]
+2020-04-27 15:04:753 INFO  HomePage :52 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (c7bfb43fe26bc0e3e5c8d576b9a991fd)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-27 15:04:410 INFO  SignInPage :42 - Entering email JamesB1234@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (c7bfb43fe26bc0e3e5c8d576b9a991fd)] -> id: gss-signin-email]
+2020-04-27 15:04:819 INFO  SignInPage :48 - Entering password James123 On password field [[ChromeDriver: chrome on WINDOWS (c7bfb43fe26bc0e3e5c8d576b9a991fd)] -> id: gss-signin-password]
+2020-04-27 15:04:85 INFO  SignInPage :54 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (c7bfb43fe26bc0e3e5c8d576b9a991fd)] -> id: gss-signin-submit]
+2020-04-27 15:04:240 INFO  SignInPage :65 - Verify My List Tab Message  : My Lists [[ChromeDriver: chrome on WINDOWS (c7bfb43fe26bc0e3e5c8d576b9a991fd)] -> xpath: //span[@class='sp-name']]
+2020-04-27 15:04:343 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:290 INFO  HomePage :39 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (456d74c88e2a6f7e450bc66d9d24e076)] -> id: header-account-menu]
+2020-04-27 15:04:642 INFO  HomePage :52 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (456d74c88e2a6f7e450bc66d9d24e076)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-27 15:04:325 INFO  SignInPage :42 - Entering email JamesB1234@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (456d74c88e2a6f7e450bc66d9d24e076)] -> id: gss-signin-email]
+2020-04-27 15:04:703 INFO  SignInPage :48 - Entering password James123 On password field [[ChromeDriver: chrome on WINDOWS (456d74c88e2a6f7e450bc66d9d24e076)] -> id: gss-signin-password]
+2020-04-27 15:04:913 INFO  SignInPage :54 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (456d74c88e2a6f7e450bc66d9d24e076)] -> id: gss-signin-submit]
+2020-04-27 15:04:81 INFO  SignInPage :65 - Verify My List Tab Message  : My Lists [[ChromeDriver: chrome on WINDOWS (456d74c88e2a6f7e450bc66d9d24e076)] -> xpath: //span[@class='sp-name']]
+2020-04-27 15:04:914 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:678 INFO  HomePage :39 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (61ef1d6d5b9c6bbef72aa48a06a7dc45)] -> id: header-account-menu]
+2020-04-27 15:04:17 INFO  HomePage :52 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (61ef1d6d5b9c6bbef72aa48a06a7dc45)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-27 15:04:385 INFO  SignInPage :42 - Entering email abc1234@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (61ef1d6d5b9c6bbef72aa48a06a7dc45)] -> id: gss-signin-email]
+2020-04-27 15:04:771 INFO  SignInPage :48 - Entering password Tajmahal123 On password field [[ChromeDriver: chrome on WINDOWS (61ef1d6d5b9c6bbef72aa48a06a7dc45)] -> id: gss-signin-password]
+2020-04-27 15:04:994 INFO  SignInPage :54 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (61ef1d6d5b9c6bbef72aa48a06a7dc45)] -> id: gss-signin-submit]
+2020-04-27 15:04:43 INFO  SignInPage :59 - Getting text from error message [[ChromeDriver: chrome on WINDOWS (61ef1d6d5b9c6bbef72aa48a06a7dc45)] -> id: gss-signin-incorrect-email-or-password]
+2020-04-27 16:04:442 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:98 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> xpath: //span[@class ='button-text']]
+2020-04-27 16:04:367 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-27 16:04:883 INFO  FlightsPage :57 - Entering flying fromLondonOn flying from field[[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> id: flight-origin-hp-flight]
+2020-04-27 16:04:516 INFO  FlightsPage :63 - Entering going toAhmedabad On going to field[[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> id: flight-destination-hp-flight]
+2020-04-27 16:04:994 INFO  FlightsPage :69 - Entering departing date01/07/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> id: flight-departing-hp-flight]
+2020-04-27 16:04:463 INFO  FlightsPage :75 - Entering returning date19/07/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> id: flight-returning-hp-flight]
+2020-04-27 16:04:698 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-27 16:04:890 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-27 16:04:637 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-27 16:04:692 INFO  ResultPage :27 - Getting text from[[ChromeDriver: chrome on WINDOWS (6f4b579cee1b2c14a8f7f065a033a699)] -> xpath: //*[@id="titleBar"]/h1/div/span[1]]
+2020-04-27 16:04:771 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:04 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> xpath: //span[@class ='button-text']]
+2020-04-27 16:04:312 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-27 16:04:898 INFO  FlightsPage :57 - Entering flying fromLondonOn flying from field[[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> id: flight-origin-hp-flight]
+2020-04-27 16:04:421 INFO  FlightsPage :63 - Entering going toAhmedabad On going to field[[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> id: flight-destination-hp-flight]
+2020-04-27 16:04:982 INFO  FlightsPage :69 - Entering departing date01/07/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> id: flight-departing-hp-flight]
+2020-04-27 16:04:356 INFO  FlightsPage :75 - Entering returning date19/07/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> id: flight-returning-hp-flight]
+2020-04-27 16:04:601 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-27 16:04:806 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-27 16:04:800 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-27 16:04:864 INFO  ResultPage :27 - Getting text from[[ChromeDriver: chrome on WINDOWS (1549a9b97789df62aa8b483f70c03453)] -> xpath: //*[@id="titleBar"]/h1/div/span[1]]
+2020-04-27 16:04:730 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:18 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> xpath: //span[@class ='button-text']]
+2020-04-27 16:04:328 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-27 16:04:04 INFO  FlightsPage :57 - Entering flying fromDelhiOn flying from field[[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> id: flight-origin-hp-flight]
+2020-04-27 16:04:435 INFO  FlightsPage :63 - Entering going toAmerica On going to field[[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> id: flight-destination-hp-flight]
+2020-04-27 16:04:895 INFO  FlightsPage :69 - Entering departing date07/08/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> id: flight-departing-hp-flight]
+2020-04-27 16:04:346 INFO  FlightsPage :75 - Entering returning date21/08/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> id: flight-returning-hp-flight]
+2020-04-27 16:04:549 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-27 16:04:766 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (a650c6ccaec6e8178e0aef51666f4ddf)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-27 16:04:662 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-27 16:04:775 INFO  ResultPage :34 - Verify Error Message  : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='bold announce-able']'
+2020-04-27 16:04:65 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:795 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> xpath: //span[@class ='button-text']]
+2020-04-27 16:04:64 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-27 16:04:645 INFO  FlightsPage :57 - Entering flying fromDelhiOn flying from field[[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> id: flight-origin-hp-flight]
+2020-04-27 16:04:177 INFO  FlightsPage :63 - Entering going toAmerica On going to field[[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> id: flight-destination-hp-flight]
+2020-04-27 16:04:756 INFO  FlightsPage :69 - Entering departing date07/08/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> id: flight-departing-hp-flight]
+2020-04-27 16:04:156 INFO  FlightsPage :75 - Entering returning date21/08/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> id: flight-returning-hp-flight]
+2020-04-27 16:04:395 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-27 16:04:646 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (a80ab2d52edbf53356b670b34c0d1fd0)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-27 16:04:08 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-27 16:04:129 INFO  ResultPage :34 - Verify Error Message  : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='bold announce-able']'
+2020-04-27 16:04:459 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:63 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> xpath: //span[@class ='button-text']]
+2020-04-27 16:04:407 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-27 16:04:926 INFO  FlightsPage :57 - Entering flying fromDelhiOn flying from field[[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> id: flight-origin-hp-flight]
+2020-04-27 16:04:423 INFO  FlightsPage :63 - Entering going toAmerica On going to field[[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> id: flight-destination-hp-flight]
+2020-04-27 16:04:56 INFO  FlightsPage :69 - Entering departing date07/08/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> id: flight-departing-hp-flight]
+2020-04-27 16:04:484 INFO  FlightsPage :75 - Entering returning date21/08/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> id: flight-returning-hp-flight]
+2020-04-27 16:04:688 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-27 16:04:925 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (d060db516c7685ea5ac8a797ee8fbb49)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-27 16:04:804 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-27 16:04:931 INFO  ResultPage :34 - Verify Error Message  : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='bold announce-able']'
+2020-04-27 16:04:568 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:450 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> xpath: //span[@class ='button-text']]
+2020-04-27 16:04:764 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-27 16:04:313 INFO  FlightsPage :57 - Entering flying fromDelhiOn flying from field[[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> id: flight-origin-hp-flight]
+2020-04-27 16:04:737 INFO  FlightsPage :63 - Entering going toAfrica On going to field[[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> id: flight-destination-hp-flight]
+2020-04-27 16:04:267 INFO  FlightsPage :69 - Entering departing date07/08/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> id: flight-departing-hp-flight]
+2020-04-27 16:04:670 INFO  FlightsPage :75 - Entering returning date21/08/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> id: flight-returning-hp-flight]
+2020-04-27 16:04:952 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-27 16:04:198 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-27 16:04:173 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-27 16:04:262 INFO  ResultPage :34 - Verify Error Message  : [[ChromeDriver: chrome on WINDOWS (bd14624da01bb4206fe01556a4fb14fb)] -> xpath: //div[@class='bold announce-able']]
+2020-04-28 20:04:447 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 20:04:07 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> xpath: //span[@class ='button-text']]
+2020-04-28 20:04:327 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-28 20:04:16 INFO  FlightsPage :57 - Entering flying fromLondonOn flying from field[[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> id: flight-origin-hp-flight]
+2020-04-28 20:04:562 INFO  FlightsPage :63 - Entering going toAhmedabad On going to field[[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> id: flight-destination-hp-flight]
+2020-04-28 20:04:45 INFO  FlightsPage :69 - Entering departing date01/07/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> id: flight-departing-hp-flight]
+2020-04-28 20:04:512 INFO  FlightsPage :75 - Entering returning date19/07/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> id: flight-returning-hp-flight]
+2020-04-28 20:04:757 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-28 20:04:969 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-28 20:04:783 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-28 20:04:849 INFO  ResultPage :27 - Getting text from[[ChromeDriver: chrome on WINDOWS (1c45a09243bc9dd543cd0da57e9ba4c8)] -> xpath: //*[@id="titleBar"]/h1/div/span[1]]
+2020-04-28 20:04:705 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 20:04:846 INFO  HomePage :45 - clicking on accept tab : [[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> xpath: //span[@class ='button-text']]
+2020-04-28 20:04:154 INFO  HomePage :33 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-28 20:04:493 INFO  FlightsPage :57 - Entering flying fromDelhiOn flying from field[[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> id: flight-origin-hp-flight]
+2020-04-28 20:04:158 INFO  FlightsPage :63 - Entering going toAfrica On going to field[[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> id: flight-destination-hp-flight]
+2020-04-28 20:04:629 INFO  FlightsPage :69 - Entering departing date07/08/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> id: flight-departing-hp-flight]
+2020-04-28 20:04:67 INFO  FlightsPage :75 - Entering returning date21/08/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> id: flight-returning-hp-flight]
+2020-04-28 20:04:286 INFO  FlightsPage :93 - clicking on travellers : [[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> xpath: //body/meso-native-marquee/section/div/div/div/section/div/div/div/section/form/fieldset/div/div/div/div/ul/li/button[1]]
+2020-04-28 20:04:507 INFO  FlightsPage :100 - adding adults : [[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> xpath: //button[@class="uitk-step-input-button uitk-step-input-plus"]]
+2020-04-28 20:04:441 INFO  FlightsPage :87 - Clicking on search buttonProxy element for: DefaultElementLocator 'By.xpath: //div[9]//label[1]//button[1]'
+2020-04-28 20:04:509 INFO  ResultPage :34 - Verify Error Message  : [[ChromeDriver: chrome on WINDOWS (d1673fffef017b30d63800a3807ade17)] -> xpath: //div[@class='bold announce-able']]
+2020-04-28 20:04:141 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 20:04:847 INFO  HomePage :39 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (cca6d68d95c859db0d1a525ca67f86da)] -> id: header-account-menu]
+2020-04-28 20:04:146 INFO  HomePage :52 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (cca6d68d95c859db0d1a525ca67f86da)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-28 20:04:906 INFO  SignInPage :42 - Entering email JamesB1234@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (cca6d68d95c859db0d1a525ca67f86da)] -> id: gss-signin-email]
+2020-04-28 20:04:267 INFO  SignInPage :48 - Entering password James123 On password field [[ChromeDriver: chrome on WINDOWS (cca6d68d95c859db0d1a525ca67f86da)] -> id: gss-signin-password]
+2020-04-28 20:04:529 INFO  SignInPage :54 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (cca6d68d95c859db0d1a525ca67f86da)] -> id: gss-signin-submit]
+2020-04-28 20:04:704 INFO  SignInPage :65 - Verify My List Tab Message  : My Lists [[ChromeDriver: chrome on WINDOWS (cca6d68d95c859db0d1a525ca67f86da)] -> xpath: //span[@class='sp-name']]
+2020-04-28 20:04:593 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 20:04:694 INFO  HomePage :39 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (fba835bc1affb04fac8086cbab0bcdf8)] -> id: header-account-menu]
+2020-04-28 20:04:954 INFO  HomePage :52 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (fba835bc1affb04fac8086cbab0bcdf8)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-28 20:04:522 INFO  SignInPage :42 - Entering email abc1234@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (fba835bc1affb04fac8086cbab0bcdf8)] -> id: gss-signin-email]
+2020-04-28 20:04:984 INFO  SignInPage :48 - Entering password Tajmahal123 On password field [[ChromeDriver: chrome on WINDOWS (fba835bc1affb04fac8086cbab0bcdf8)] -> id: gss-signin-password]
+2020-04-28 20:04:244 INFO  SignInPage :54 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (fba835bc1affb04fac8086cbab0bcdf8)] -> id: gss-signin-submit]
+2020-04-28 20:04:312 INFO  SignInPage :59 - Getting text from error message [[ChromeDriver: chrome on WINDOWS (fba835bc1affb04fac8086cbab0bcdf8)] -> id: gss-signin-incorrect-email-or-password]

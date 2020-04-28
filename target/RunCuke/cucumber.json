@@ -1,0 +1,268 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14159586800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should login successfully with valid credentials",
+        "description": "",
+        "id": "login-feature;user-should-login-successfully-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 788505000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 156392500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTestSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 294355000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I clickOnAccountTab",
+            "match": {
+              "location": "LoginTestSteps.iClickOnAccountTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 294740800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I clickOnSignInTab",
+            "match": {
+              "location": "LoginTestSteps.iClickOnSignInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2756181000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter valid Email \"JamesB1234@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "JamesB1234@gmail.com",
+                  "offset": 21
+                }
+              ],
+              "location": "LoginTestSteps.iEnterValidEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 357014400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter valid password \"James123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "James123",
+                  "offset": 24
+                }
+              ],
+              "location": "LoginTestSteps.iEnterValidPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 260558100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264255000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I should login successfully",
+            "match": {
+              "location": "LoginTestSteps.iShouldLoginSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12871507800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "User should Not login successfully with invalid credentials",
+        "description": "",
+        "id": "login-feature;user-should-not-login-successfully-with-invalid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 747648700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginTestSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 225351700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I clickOnAccountTab",
+            "match": {
+              "location": "LoginTestSteps.iClickOnAccountTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 258184100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I clickOnSignInTab",
+            "match": {
+              "location": "LoginTestSteps.iClickOnSignInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2564868500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter valid Email \"abc1234@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc1234@gmail.com",
+                  "offset": 21
+                }
+              ],
+              "location": "LoginTestSteps.iEnterValidEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 461024600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I enter valid password \"Tajmahal123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tajmahal123",
+                  "offset": 24
+                }
+              ],
+              "location": "LoginTestSteps.iEnterValidPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 258769400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105096000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I should Not login successfully",
+            "match": {
+              "location": "LoginTestSteps.iShouldNotLoginSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login feature",
+    "description": "\r\nAs a user, I want to login in to expedia.co.uk successfully",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/co/expedia/recources/featurefile/login.feature"
+  }
+]
